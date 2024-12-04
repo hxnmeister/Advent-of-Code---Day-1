@@ -1,0 +1,14 @@
+G:\Visual Studio Projects\Advent of Code - Day 1\obj\Debug\net8.0\Advent of Code - Day 1.GeneratedMSBuildEditorConfig.editorconfig
+G:\Visual Studio Projects\Advent of Code - Day 1\obj\Debug\net8.0\Advent of Code - Day 1.AssemblyInfoInputs.cache
+G:\Visual Studio Projects\Advent of Code - Day 1\obj\Debug\net8.0\Advent of Code - Day 1.AssemblyInfo.cs
+G:\Visual Studio Projects\Advent of Code - Day 1\obj\Debug\net8.0\Advent of Code - Day 1.csproj.CoreCompileInputs.cache
+G:\Visual Studio Projects\Advent of Code - Day 1\bin\Debug\net8.0\Advent of Code - Day 1.exe
+G:\Visual Studio Projects\Advent of Code - Day 1\bin\Debug\net8.0\Advent of Code - Day 1.deps.json
+G:\Visual Studio Projects\Advent of Code - Day 1\bin\Debug\net8.0\Advent of Code - Day 1.runtimeconfig.json
+G:\Visual Studio Projects\Advent of Code - Day 1\bin\Debug\net8.0\Advent of Code - Day 1.dll
+G:\Visual Studio Projects\Advent of Code - Day 1\bin\Debug\net8.0\Advent of Code - Day 1.pdb
+G:\Visual Studio Projects\Advent of Code - Day 1\obj\Debug\net8.0\Advent of Code - Day 1.dll
+G:\Visual Studio Projects\Advent of Code - Day 1\obj\Debug\net8.0\refint\Advent of Code - Day 1.dll
+G:\Visual Studio Projects\Advent of Code - Day 1\obj\Debug\net8.0\Advent of Code - Day 1.pdb
+G:\Visual Studio Projects\Advent of Code - Day 1\obj\Debug\net8.0\Advent of Code - Day 1.genruntimeconfig.cache
+G:\Visual Studio Projects\Advent of Code - Day 1\obj\Debug\net8.0\ref\Advent of Code - Day 1.dll
